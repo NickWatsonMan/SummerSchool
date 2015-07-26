@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437636519 source:c:\users\Никита\desktop\summerschoolcpp\anglevector\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

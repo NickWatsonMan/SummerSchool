@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437631869 source:c:\users\Никита\desktop\summerschoolcpp\dot\main.cpp
+	<iostream>
+	<math.h>
+	<cstdio>
+
